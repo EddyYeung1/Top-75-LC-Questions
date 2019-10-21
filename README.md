@@ -11,19 +11,29 @@
 ## 🧵Strings🧵
 
 | Title | Difficulty | Revise | Solution |
+| ----- | ---------- | ------ | -------- |
+
 
 ## 🌲Trees🌲
 
 | Title | Difficulty | Revise | Solution |
+| ----- | ---------- | ------ | -------- |
+
 
 ## 🔗Linked Lists🔗
 
 | Title | Difficulty | Revise | Solution |
+| ----- | ---------- | ------ | -------- |
+
 
 ## 📈Graph📈
 
 | Title | Difficulty | Revise | Solution |
+| ----- | ---------- | ------ | -------- |
+
 
 ## 🔎Heap🔎
 
 | Title | Difficulty | Revise | Solution |
+| ----- | ---------- | ------ | -------- |
+

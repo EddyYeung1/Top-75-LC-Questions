@@ -16,9 +16,9 @@
 
 ## 🌲Trees🌲
 
-| Title | Difficulty | Revise | Solution |
-| ----- | ---------- | ------ | -------- |
-
+| Title                                                                    | Difficulty | Revise | Solution                           |
+| ------------------------------------------------------------------------ | ---------- | ------ | ---------------------------------- |
+| [Max Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy       | 1      | [Solution](Solutions/Max_Depth.py) |
 
 ## 🔗Linked Lists🔗
 

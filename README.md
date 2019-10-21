@@ -1,6 +1,7 @@
 # 🆘 Technical Interview Prep 🆘
 
-- Revise is the level of how hard it was for me to understand and should revise more on a scale of 1-5, 5 being most difficlt
+- Revise is the level of how hard it was for me to understand and should revise more on a scale of 1-5, 5 being most difficult
+- if there is a question mark I haven't gotten to the question yet
 
 ## 📚Arrays📚
 

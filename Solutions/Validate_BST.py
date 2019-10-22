@@ -33,14 +33,17 @@ Solution: Just watch this video https://www.youtube.com/watch?v=MILxfAbIhrE&t=20
 def validateBST(root):
 
     def traverse(node, lower, upper):
-        if not node:
+        if not node:  # reached end of subtree
             return True
-        if node.val <= lower or node.val >= upper:
+        if node.val <= lower or node.val >= upper:  # found an invalid node
             return False
 
+        # when traversing left subtrees, the lower bound can be anything whilst the upper bound must be the parent node
+        # if any of the subtrees return false from that above condition where a node is invalid
         if not traverse(node.left, lower, node.val):
             return False
 
+        # when traversing right subtrees, the upper bound can be anything whilst the lower bound must be the parent node
         if not traverse(node.right, node.val, upper):
             return False
 

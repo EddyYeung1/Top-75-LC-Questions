@@ -5,19 +5,18 @@
 
 ## 📚Arrays📚
 
-| Title                                                                                                                           | Difficulty | Revise | Solution                                         |
-| ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | ------------------------------------------------ |
-| [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | Easy       | 1      | [Solution](Solutions/Two_Sum.py)                 |
-| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Easy       | 1      | [Solution](Solutions/Stock.py)                   |
-| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | Easy       | 1      | [Solution](Solutions/Contains_Dup.py)            |
-| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | Medium     | 1      | [Solution](Solutions/Product_Array.py)           |
-| [Max Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                 | Easy       | 4      | [Solution](Solutions/Max_Subarray.py)            |
-| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                             | Medium     | ?      | [Solution](Solutions/Max_Prod_Subarray.py)       |
-| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                     | Medium     | ?      | [Solution](Solutions/Min_Rot_Array.py)           |
-| [Three Sum](https://leetcode.com/problems/3sum/)                                                                                | Medium     | ?      | [Solution](Solutions/Three_Sum.py)               |
-| [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)                                           | Medium     | ?      | [Solution](Solutions/Water.py)                   |
-| Extras                                                                                                                          | ---------- | ------ | ------------------------------------------------ |
-| ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | ------------------------------------------------ |
+| Title                                                                                                       | Difficulty | Revise | Solution                                   |
+| ----------------------------------------------------------------------------------------------------------- | ---------- | ------ | ------------------------------------------ |
+| [Two Sum](https://leetcode.com/problems/two-sum/)                                                           | Easy       | 1      | [Solution](Solutions/Two_Sum.py)           |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)           | Easy       | 1      | [Solution](Solutions/Stock.py)             |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                     | Easy       | 1      | [Solution](Solutions/Contains_Dup.py)      |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                 | Medium     | 1      | [Solution](Solutions/Product_Array.py)     |
+| [Max Subarray](https://leetcode.com/problems/maximum-subarray/)                                             | Easy       | 4      | [Solution](Solutions/Max_Subarray.py)      |
+| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                         | Medium     | ?      | [Solution](Solutions/Max_Prod_Subarray.py) |
+| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium     | ?      | [Solution](Solutions/Min_Rot_Array.py)     |
+| [Three Sum](https://leetcode.com/problems/3sum/)                                                            | Medium     | ?      | [Solution](Solutions/Three_Sum.py)         |
+| [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)                       | Medium     | ?      | [Solution](Solutions/Water.py)             |
+| Extras                                                                                                      |            |        |                                            |
 
 ## 🧵Strings🧵
 
@@ -31,9 +30,8 @@
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | Medium     | ?      | [Solution](Solutions/Valid_Parentheses.py)       |
 | [Valid Palindrome](https://leetcode.com/problems/3sum/)                                                                         | Easy       | 1      | [Solution](Solutions/Valid_Palindrome.py)        |
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   | Medium     | ?      | [Solution](Solutions/Longest_Palin_Substring.py) |
-| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | Medium     | ?      | [Solution](Solutions/Three_Sum.py)               |
-| Extras                                                                                                                          | ---------- | ------ | ------------------------------------------------ |
-| ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | ------------------------------------------------ |
+| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | Medium     | ?      | [Solution](Solutions/Palindromic_Substrings.py)  |
+| Extras                                                                                                                          |            |        |                                                  |
 
 ## 🌲Trees🌲
 
@@ -53,21 +51,19 @@
 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                    | Medium     | ?      | [Solution](Solutions/Trie.py)                           |
 | [Add and Search Word ](https://leetcode.com/problems/add-and-search-word-data-structure-design/)                                             | Medium     | ?      | [Solution](Solutions/Add_Search_Word.py)                |
 | [Word Search II ](https://leetcode.com/problems/word-search-ii/)                                                                             | Medium     | ?      | [Solution](Solutions/Word_Search.py)                    |
-| Extras                                                                                                                                       | ---------- | ------ | ------------------------------------------------        |
-| -------------------------------------------------------------------------------------------------------------------------------              | ---------- | ------ | ------------------------------------------------        |
+| Extras                                                                                                                                       |            |        |                                                         |
 
 ## 🔗Linked Lists🔗
 
-| Title                                                                                                                           | Difficulty | Revise | Solution                                         |
-| ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | ------------------------------------------------ |
-| [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                     | Easy       | 1      | [Solution](Solutions/Reverse_LL.py)              |
-| [Detect a Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)                                             | Easy       | 1      | [Solution](Solutions/Cycle_LL.py)                |
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | Medium     | ?      | [Solution](Solutions/Merge_Two_LL.py)            |
-| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                     | Hard       | ?      | [Solution](Solutions/Merge_K_LL.py)              |
-| [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                             | Medium     | ?      | [Solution](Solutions/Remove_Nth_LL.py)           |
-| [Reorder List](https://leetcode.com/problems/reorder-list/)                                                                     | Medium     | ?      | [Solution](Solutions/Reorder_List.py)            |
-| Extras                                                                                                                          | ---------- | ------ | ------------------------------------------------ |
-| ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | ------------------------------------------------ |
+| Title                                                                                               | Difficulty | Revise | Solution                               |
+| --------------------------------------------------------------------------------------------------- | ---------- | ------ | -------------------------------------- |
+| [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)                         | Easy       | 1      | [Solution](Solutions/Reverse_LL.py)    |
+| [Detect a Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)                 | Easy       | 1      | [Solution](Solutions/Cycle_LL.py)      |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                     | Medium     | ?      | [Solution](Solutions/Merge_Two_LL.py)  |
+| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                         | Hard       | ?      | [Solution](Solutions/Merge_K_LL.py)    |
+| [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium     | ?      | [Solution](Solutions/Remove_Nth_LL.py) |
+| [Reorder List](https://leetcode.com/problems/reorder-list/)                                         | Medium     | ?      | [Solution](Solutions/Reorder_List.py)  |
+| Extras                                                                                              |            |        |                                        |
 
 ## 📈Graph📈
 
@@ -77,10 +73,9 @@
 
 ## 🔎Heap🔎
 
-| Title                                                                                                                           | Difficulty | Revise | Solution                                         |
-| ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | ------------------------------------------------ |
-| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                     | Hard       | ?      | [Solution](Solutions/Merge_K_LL.py)              |
-| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                               | Medium     | 1      | [Solution](Solutions/Top_K.py)                   |
-| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                                     | Hard       | ?      | [Solution](Solutions/Find_Median.py)             |
-| Extras                                                                                                                          | ---------- | ------ | ------------------------------------------------ |
-| ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | ------------------------------------------------ |
+| Title                                                                                       | Difficulty | Revise | Solution                             |
+| ------------------------------------------------------------------------------------------- | ---------- | ------ | ------------------------------------ |
+| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                 | Hard       | ?      | [Solution](Solutions/Merge_K_LL.py)  |
+| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           | Medium     | 1      | [Solution](Solutions/Top_K.py)       |
+| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard       | ?      | [Solution](Solutions/Find_Median.py) |
+| Extras                                                                                      |            |        |                                      |

@@ -27,8 +27,8 @@
 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                             | Hard       | ?      | [Solution](Solutions/Min_Window.py)              |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Easy       | 1      | [Solution](Solutions/Valid_Anagram.py)           |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | Medium     | 2      | [Solution](Solutions/Group_Anagram.py)           |
-| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | Medium     | ?      | [Solution](Solutions/Valid_Parentheses.py)       |
-| [Valid Palindrome](https://leetcode.com/problems/3sum/)                                                                         | Easy       | 1      | [Solution](Solutions/Valid_Palindrome.py)        |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | Easy       | 1      | [Solution](Solutions/Valid_Parentheses.py)       |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             | Easy       | 1      | [Solution](Solutions/Valid_Palindrome.py)        |
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   | Medium     | ?      | [Solution](Solutions/Longest_Palin_Substring.py) |
 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | Medium     | ?      | [Solution](Solutions/Palindromic_Substrings.py)  |
 | Extras                                                                                                                          |            |        |                                                  |

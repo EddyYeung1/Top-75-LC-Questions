@@ -22,7 +22,7 @@
 
 | Title                                                                                                                           | Difficulty | Revise | Solution                                         | Completed? |
 | ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | ------------------------------------------------ | ---------- |
-| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     | ?      | [Solution](Solutions/Longest_Substring.py)       | 🚫         |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     | 3      | [Solution](Solutions/Longest_Substring.py)       | ✅         |
 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)               | Medium     | ?      | [Solution](Solutions/Longest_Repeating_Char.py)  | 🚫         |
 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                             | Hard       | ?      | [Solution](Solutions/Min_Window.py)              | 🚫         |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Easy       | 1      | [Solution](Solutions/Valid_Anagram.py)           | ✅         |
@@ -32,6 +32,7 @@
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   | Medium     | ?      | [Solution](Solutions/Longest_Palin_Substring.py) | 🚫         |
 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | Medium     | ?      | [Solution](Solutions/Palindromic_Substrings.py)  | 🚫         |
 | Extras                                                                                                                          |            |        |                                                  |            |
+| [Find Anagrams in String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                                         | Medium     | 2      | [Solution](Solutions/Find_Anagrams_In_String.py) | ✅         |
 
 ## 🌲Trees🌲
 
@@ -44,7 +45,7 @@
 | [BT Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                                 | Medium     | 1      | [Solution](Solutions/Level_Order_Traversal.py)          | ✅         |
 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                                | Hard       | ?      | [Solution](Solutions/Se-De_rialize_BT.py)               | 🚫         |
 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                            | Easy       | 4      | [Solution](Solutions/Subtree.py)                        | ✅         |
-| [Construct BT from preorder and inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium     | ?      | [Solution](Solutions/ConstructWith_Preorder_Inorder.py) |
+| [Construct BT from preorder and inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium     | ?      | [Solution](Solutions/ConstructWith_Preorder_Inorder.py) | 🚫         |
 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                    | Medium     | 4      | [Solution](Solutions/Validate_BST.py)                   | ✅         |
 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                                | Medium     | ?      | [Solution](Solutions/Kth_Smallest_BST.py)               | 🚫         |
 | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                               | Medium     | 4      | [Solution](Solutions/LCA_BST.py)                        | ✅         |
@@ -73,9 +74,9 @@
 
 ## 🔎Heap🔎
 
-| Title                                                                                       | Difficulty | Revise | Solution                             |
-| ------------------------------------------------------------------------------------------- | ---------- | ------ | ------------------------------------ |
-| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                 | Hard       | ?      | [Solution](Solutions/Merge_K_LL.py)  | 🚫 |
-| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           | Medium     | 1      | [Solution](Solutions/Top_K.py)       | ✅ |
-| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard       | ?      | [Solution](Solutions/Find_Median.py) | 🚫 |
-| Extras                                                                                      |            |        |                                      |  |
+| Title                                                                                       | Difficulty | Revise | Solution                             | Completed? |
+| ------------------------------------------------------------------------------------------- | ---------- | ------ | ------------------------------------ | ---------- |
+| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                 | Hard       | ?      | [Solution](Solutions/Merge_K_LL.py)  | 🚫         |
+| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           | Medium     | 1      | [Solution](Solutions/Top_K.py)       | ✅         |
+| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard       | ?      | [Solution](Solutions/Find_Median.py) | 🚫         |
+| Extras                                                                                      |            |        |                                      |            |

@@ -8,7 +8,7 @@
 | Title                                                                                                       | Difficulty | Revise | Solution                                   | Completed? |
 | ----------------------------------------------------------------------------------------------------------- | ---------- | ------ | ------------------------------------------ | ---------- |
 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                           | Easy       | 1      | [Solution](Solutions/Two_Sum.py)           | ✅         |
-| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)           | Easy       | 1      | [Solution](Solutions/Stock.py)             | 🚫         |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)           | Easy       | 1      | [Solution](Solutions/Stock.py)             | ✅         |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                     | Easy       | 1      | [Solution](Solutions/Contains_Dup.py)      | ✅         |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                 | Medium     | 1      | [Solution](Solutions/Product_Array.py)     | 🚫         |
 | [Max Subarray](https://leetcode.com/problems/maximum-subarray/)                                             | Easy       | 4      | [Solution](Solutions/Max_Subarray.py)      | 🚫         |

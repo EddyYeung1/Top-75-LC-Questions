@@ -62,7 +62,7 @@
 | [Detect a Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)                 | Easy       | 1      | [Solution](Solutions/Cycle_LL.py)      | ✅         |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                     | Easy       | 1      | [Solution](Solutions/Merge_Two_LL.py)  | ✅         |
 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                         | Hard       | ?      | [Solution](Solutions/Merge_K_LL.py)    | 🚫         |
-| [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium     | ?      | [Solution](Solutions/Remove_Nth_LL.py) | 🚫         |
+| [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium     | 1      | [Solution](Solutions/Remove_Nth_LL.py) | ✅         |
 | [Reorder List](https://leetcode.com/problems/reorder-list/)                                         | Medium     | ?      | [Solution](Solutions/Reorder_List.py)  | 🚫         |
 | Extras                                                                                              |            |        |                                        |
 

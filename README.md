@@ -23,7 +23,7 @@
 | Title                                                                                                                           | Difficulty | Revise | Solution                                         | Completed? |
 | ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | ------------------------------------------------ | ---------- |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     | 3      | [Solution](Solutions/Longest_Substring.py)       | ✅         |
-| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)               | Medium     | ?      | [Solution](Solutions/Longest_Repeating_Char.py)  | 🚫         |
+| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)               | Medium     | 4      | [Solution](Solutions/Longest_Repeating_Char.py)  | ✅         |
 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                             | Hard       | ?      | [Solution](Solutions/Min_Window.py)              | 🚫         |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Easy       | 1      | [Solution](Solutions/Valid_Anagram.py)           | ✅         |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | Medium     | 2      | [Solution](Solutions/Group_Anagram.py)           | ✅         |

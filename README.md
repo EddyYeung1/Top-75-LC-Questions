@@ -68,9 +68,9 @@
 
 ## 📈Graph📈
 
-| Title | Difficulty | Revise | Solution |
-| ----- | ---------- | ------ | -------- |
-
+| Title                                                           | Difficulty | Revise | Solution                            | Completed? |
+| --------------------------------------------------------------- | ---------- | ------ | ----------------------------------- | ---------- |
+| [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Medium     | 3      | [Solution](Solutions/Keys_Rooms.py) | ✅         |
 
 ## 🔎Heap🔎
 

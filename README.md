@@ -33,6 +33,7 @@
 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | Medium     | ?      | [Solution](Solutions/Palindromic_Substrings.py)  | 🚫         |
 | Extras                                                                                                                          |            |        |                                                  |            |
 | [Find Anagrams in String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                                         | Medium     | 2      | [Solution](Solutions/Find_Anagrams_In_String.py) | ✅         |
+| [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                   | Medium     | 2      | [Solution](Solutions/Permutations_In_String.py)  | ✅         |
 
 ## 🌲Trees🌲
 

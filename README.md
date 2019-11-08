@@ -54,6 +54,7 @@
 | [Add and Search Word ](https://leetcode.com/problems/add-and-search-word-data-structure-design/)                                             | Medium     | ?      | [Solution](Solutions/Add_Search_Word.py)                | 🚫         |
 | [Word Search II ](https://leetcode.com/problems/word-search-ii/)                                                                             | Medium     | ?      | [Solution](Solutions/Word_Search.py)                    | 🚫         |
 | Extras                                                                                                                                       |            |        |                                                         |            |
+| [Max Depth of N-Ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)                                                        | Easy       | 1      | [Solution](Solutions/MaxDepth_N-ary.py)                 | ✅         |
 
 ## 🔗Linked Lists🔗
 

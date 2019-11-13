@@ -56,6 +56,7 @@
 | Extras                                                                                                                                       |            |        |                                                         |            |
 | [Max Depth of N-Ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)                                                        | Easy       | 1      | [Solution](Solutions/MaxDepth_N-ary.py)                 | ✅         |
 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                                        | Med       | 1      | [Solution](Solutions/BT_Right_Side.py)                 | ✅         |
+| [Path Sum II](https://leetcode.com/problems/path-sum-ii/)                                                        | Med       | 1      | [Solution](Solutions/Path_SumII.py)                 | ✅         |
 
 ## 🔗Linked Lists🔗
 

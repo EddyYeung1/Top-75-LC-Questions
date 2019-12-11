@@ -2,6 +2,7 @@
 
 - Revise is the level of how hard it was for me to understand and should revise more on a scale of 1-5, 5 being most difficult
 - if there is a question mark I haven't gotten to the question yet
+- Also useful to know some useful python functions that will help you solve these, here is a good [cheat sheet](https://yungnickyoung.github.io/Python-3-Cheatsheet/)
 
 ## 📚Arrays📚
 
